@@ -1,7 +1,7 @@
 """
 GUI for the Sudoku Solver
 
-Author: Rajiv Thamburaj
+Authors: Rajiv Thamburaj and Meenakshi Karthikeyasundaram
 """
 
 from Tkinter import *
